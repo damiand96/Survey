@@ -1,0 +1,16 @@
+q1a1Count: 4
+q1a2Count: 0
+q1a3Count: 0
+q1a4Count: 0
+q2a1Count: 2
+q2a2Count: 2
+q2a3Count: 0
+q2a4Count: 0
+q3a1Count: 2
+q3a2Count: 0
+q3a3Count: 1
+q3a4Count: 1
+q4a1Count: 2
+q4a2Count: 0
+q4a3Count: 0
+q4a4Count: 2

@@ -1,0 +1,20 @@
+Wybierz swoj przedzial wiekowy.
+1.18-30
+2.31-40
+3.41-50
+4.51-99
+Jak czesto czytasz ksiazki?
+1.bardzo czesto
+2.czesto
+3.rzadko
+4.wcale
+Co robisz w wolnym czasie?
+1.gram na komputerze 
+2.ogladam telewizje
+3.uprawiam sport 
+4.zadne z powyzszych
+Jakie wybralbys/As zajecie dodatkowe?
+1.sportowe 
+2.naukowe 
+3.muzyczne 
+4.zadne z powyzszych
